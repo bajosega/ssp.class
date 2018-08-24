@@ -1,0 +1,15 @@
+
+//Ejemplo 
+
+define("SERVIDOR", "10.10.1.2");
+define("DB", "baseDB");
+define("USUARIO", "usuario");
+define("PASSWORD", "pass");
+
+// SQL server connection information Utilizado en Datatables
+$sql_details = array(
+    'user' => USUARIO,
+    'pass' => PASSWORD,
+    'db'   => DB,
+    'host' => SERVIDOR
+);
