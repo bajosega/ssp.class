@@ -1,2 +1,8 @@
 # ssp.class
-ssp.class , permite inner join  .  Para base de datos mysql y postgres. 
+ssp.class , 
+modificado para permitir inner join.  
+
+Actualmente para  base de datos mysql y postgres. 
+
+2018-08-24 Adrián Seimandi
+
